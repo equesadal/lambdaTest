@@ -16,3 +16,6 @@ A very simple folder structure is used:
 
 # Tech Debt
 More guard clauses should be used to avoid edge scenarios, as this is an exercise, I didnt take extra care about it.
+
+h3. How to run the code
+From a command line run the following command: mvnw spring-boot:run
